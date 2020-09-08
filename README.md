@@ -13,6 +13,12 @@
 
 <hr>
 
+### 📫 How to reach me:
+
+<a href="https://www.instagram.com/_aswin_ramesh/"><img height="30px" width="30px" src="https://camo.githubusercontent.com/68ff38b86f01b428567dcc406116e23728245f4e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"></a>  <a href="https://www.facebook.com/aswinachu.kudakkalam/"><img height="30px" width="30px" src="https://camo.githubusercontent.com/e6d2040c65e8c6f4da10db72436cf9a1196e43ae/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"></a>  <a href="https://www.linkedin.com/in/aswin-ramesh-766620124/"><img height="30px" width="30px" src="https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"></a>   <a href="https://twitter.com/aswinramesh527"><img height="30px" width="30px" src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"></a>  
+
+<hr>
+
 [![Aswins's github stats](https://github-readme-stats.vercel.app/api?username=aswin527)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin527&layout=compact)](https://github.com/aswin527/github-readme-stats)

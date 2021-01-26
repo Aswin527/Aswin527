@@ -1,6 +1,7 @@
 ### Hi there 👋
 # I am Aswin Ramesh
-## A Tech enthusiast who want to secure a position in a company that challenges my skills, updates my current knowledge, and sharpens my training. Want to broaden my horizons and gain a different perspective so that it can look at the same thing from a variety of angles.
+## Java Developer
+## A Tech enthusiast always do things that challenges my skills, updates my current knowledge, and sharpens my training. Want to broaden my horizons and gain a different perspective so that it can look at the same thing from a variety of angles.
 
 <hr>
 

@@ -7,10 +7,10 @@
 
 ### Tech and Tools 💻🔧
 #### <img  height="30px" width="30px" src="https://camo.githubusercontent.com/fa9bd56c1c89a81c4298a79b70e3c0a84ed1ae2f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"> <img  height="30px" width="30px" src="https://camo.githubusercontent.com/e4401872e88c7253f40c1267936c9a5a81aa3692/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"> <img  height="30px" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-<img  height="30px" width="30px" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png">
-
- <img  height="30px" width="30px" src="https://camo.githubusercontent.com/3ab254946cc64e3bf0fc5d45f97ae3ecccdef5fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"> <img  height="30px" width="30px" src="https://camo.githubusercontent.com/11ab33aade76b32789dfac7a4c04e051924fb22d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667"> <img  height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/2560px-Dart_programming_language_logo.svg.png">
+<img  height="50px" width="30px" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png"><img  height="30px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/2560px-Dart_programming_language_logo.svg.png">
  
+
+ <img  height="30px" width="30px" src="https://camo.githubusercontent.com/3ab254946cc64e3bf0fc5d45f97ae3ecccdef5fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"> <img  height="30px" width="30px" src="https://camo.githubusercontent.com/11ab33aade76b32789dfac7a4c04e051924fb22d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667"> 
  <img  height="30px" width="60px" src="https://git-scm.com/images/logo@2x.png"><img  height="30px" width="60px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">    
 
 <hr>

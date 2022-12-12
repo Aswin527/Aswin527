@@ -11,7 +11,7 @@
 
  <img  height="30px" width="30px" src="https://camo.githubusercontent.com/3ab254946cc64e3bf0fc5d45f97ae3ecccdef5fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"> <img  height="30px" width="30px" src="https://camo.githubusercontent.com/11ab33aade76b32789dfac7a4c04e051924fb22d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667">
  
- <img  height="30px" width="60px" src="https://git-scm.com/images/logo@2x.png">    
+ <img  height="30px" width="60px" src="https://git-scm.com/images/logo@2x.png"><img  height="30px" width="60px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">    
 
 <hr>
 

@@ -1,40 +1,31 @@
-### Hi there 👋
-# I am Aswin Ramesh
-## Java Developer
-## A Tech enthusiast always try do things that challenges my skills, updates my current knowledge, and sharpens my training. Want to broaden my horizons and gain a different perspective so that it can look at the same thing from a variety of angles.
+<h1 align="center">Hi 👋, I'm Aswin Ramesh</h1>
+<h3 align="center">A passionate Java Developer also an enthusiast who always try do things that challenges my skills, updates my current knowledge, and sharpens my training. Want to broaden my horizons and gain a different perspective so that it can look at the same thing from a variety of angles.</h3>
 
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin527&label=Profile%20views&color=0e75b6&style=flat" alt="aswin527" /> </p>
 
-### Tech and Tools 💻🔧
-#### <img  height="30px" width="30px" src="https://camo.githubusercontent.com/fa9bd56c1c89a81c4298a79b70e3c0a84ed1ae2f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"> <img  height="30px" width="30px" src="https://camo.githubusercontent.com/e4401872e88c7253f40c1267936c9a5a81aa3692/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667"> <img  height="30px" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-<img  height="50px" width="80px" src="https://venturebeat.com/wp-content/uploads/2019/09/google-dart-flutter.png?w=1200&strip=all">
- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswin527" alt="aswin527" /></a> </p>
 
- <img  height="30px" width="30px" src="https://camo.githubusercontent.com/3ab254946cc64e3bf0fc5d45f97ae3ecccdef5fa/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"> <img  height="30px" width="30px" src="https://camo.githubusercontent.com/11ab33aade76b32789dfac7a4c04e051924fb22d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667"> 
- <img  height="30px" width="60px" src="https://git-scm.com/images/logo@2x.png"><img  height="30px" width="60px" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png">    
+- 🌱 I’m currently learning **Android Development**
 
-<hr>
+- 💬 Ask me about **Java and Flutter**
 
-### 📫 How to reach me:
+- 📫 How to reach me **aswinramesh.asr@gmail.com**
 
-<a href="https://www.instagram.com/_aswin_ramesh/"><img height="30px" width="30px" src="https://camo.githubusercontent.com/68ff38b86f01b428567dcc406116e23728245f4e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"></a>  <a href="https://www.facebook.com/aswinachu.kudakkalam/"><img height="30px" width="30px" src="https://camo.githubusercontent.com/e6d2040c65e8c6f4da10db72436cf9a1196e43ae/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"></a>  <a href="https://www.linkedin.com/in/aswin-ramesh-766620124/"><img height="30px" width="30px" src="https://camo.githubusercontent.com/45e6bebceba49c2cf76b1b3770b1adbe24e6c454/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"></a>   <a href="https://twitter.com/aswinramesh527"><img height="30px" width="30px" src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"></a>  
+- ⚡ Fun fact **I think i'm enthusiastic.**
 
-<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/aswinasr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aswinasr" height="30" width="40" /></a>
+<a href="https://twitter.com/aswinramesh527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aswinramesh527" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aswin-ramesh-766620124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-ramesh-766620124" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20824209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20824209" height="30" width="40" /></a>
+<a href="https://instagram.com/_aswin_ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aswin_ramesh" height="30" width="40" /></a>
+<a href="https://medium.com/@aswinramesh527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswinramesh527" height="30" width="40" /></a>
+</p>
 
-[![Aswins's github stats](https://github-readme-stats.vercel.app/api?username=aswin527)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin527&layout=compact)](https://github.com/aswin527/github-readme-stats)
-<!--
-**Aswin527/Aswin527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin527&show_icons=true&locale=en&layout=compact" alt="aswin527" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswin527&show_icons=true&locale=en" alt="aswin527" /></p>

@@ -29,4 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswin527&show_icons=true&locale=en&layout=compact" alt="aswin527" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswin527&show_icons=true&locale=en" alt="aswin527" /></p>
-<p>&nbsp;![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kattni)</p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin527" alt="aswin527" /></p>

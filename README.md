@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswin Ramesh</h1>
-<h3 align="center">A passionate Java Developer also an enthusiast who always try do things that challenges my skills, updates my current knowledge, and sharpens my training. Want to broaden my horizons and gain a different perspective so that it can look at the same thing from a variety of angles.</h3>
+<h3 align="center">A passionate Software Developer also an enthusiast who always try do things that challenges my skills, updates my current knowledge, and sharpens my training. Want to broaden my horizons and gain a different perspective so that it can look at the same thing from a variety of angles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin527&label=Profile%20views&color=0e75b6&style=flat" alt="aswin527" /> </p>
 

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aswinramesh.asr@gmail.com**
 
-- ⚡ Fun fact **I think i'm enthusiastic.**
+- ⚡ **Obsessed with Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,67 +1,69 @@
 # Aswin Ramesh
 
-Software Engineer | AI Systems | Scalable Architecture
+Software Engineer | Backend & AI Systems
 
 ---
 
-## Summary
+## Profile
 
-Engineer focused on building reliable, scalable software systems and AI-driven applications.  
-Strong foundation in backend engineering, system design fundamentals, and practical AI integration.
+Engineer building scalable backend systems and applied AI solutions.  
+Strong focus on clean architecture, system design fundamentals, and production reliability.
 
-Currently deepening expertise in distributed systems, large language models, and production-grade architecture.
-
----
-
-## Core Competencies
-
-**Languages**  
-Java · Python · TypeScript · JavaScript · SQL  
-
-**Backend Engineering**  
-Node.js · Spring Boot · REST API Design · Authentication · CMS Architecture  
-
-**Frontend Systems**  
-React · Next.js · State Management · Component Architecture  
-
-**AI & Applied ML**  
-Machine Learning Fundamentals · LLM Concepts · Prompt Engineering · AI Integration  
-
-**Databases**  
-MySQL · MSSQL · Schema Design · Query Optimization  
-
-**Engineering Practices**  
-System Design · Modular Architecture · Version Control · API Testing  
+Interested in distributed systems, LLM-powered applications, and performance-driven engineering.
 
 ---
 
-## Selected Engineering Work
+## Technical Strengths
 
-### AI-Powered Smart Study System
-IoT + AI system integrating hardware sensors with intelligent feedback loops.  
-Focus: real-time data processing, user-state detection, AI-based recommendations.
+**Programming**
+Java · Python · TypeScript · JavaScript · SQL
+
+**Backend & Systems**
+Node.js · Spring Boot · RESTful API Design · Authentication & Authorization  
+CMS Architecture · Modular Design · Service-Oriented Patterns
+
+**Frontend**
+React · Next.js · Component Architecture · State Management
+
+**AI Engineering**
+Applied Machine Learning · LLM Integration · Prompt Engineering  
+AI-assisted workflow automation
+
+**Data**
+MySQL · MSSQL · Schema Design · Query Optimization
+
+**Practices**
+System Design · API Contracts · Version Control · Code Maintainability
+
+---
+
+## Engineering Experience
+
+### AI-Driven Smart Study System
+Designed an IoT + AI architecture integrating hardware signals with adaptive feedback logic.  
+Implemented real-time processing flow and AI recommendation layer.
 
 ### School CMS Platform
-Full-stack production system built with React + Strapi + Node.js.  
-Designed modular content models, authentication flows, and scalable backend structure.
+Built a full-stack content management system using React, Strapi, and Node.js.  
+Designed scalable content models, authentication flow, and modular backend structure.
 
 ### Water Flow Monitoring System
-Embedded system using ESP32 with analytics layer for usage tracking.  
-Focus: data collection, reporting logic, and optimization insights.
+Developed ESP32-based embedded system with analytics layer for tracking and optimization.  
+Focused on structured data collection and reporting efficiency.
 
 ---
 
-## Current Focus
+## What I’m Currently Working On
 
 - Advanced system design patterns  
 - LLM application architecture  
-- Performance optimization  
-- Distributed system fundamentals  
-- Data structures & algorithmic rigor  
+- Backend performance tuning  
+- Data structures and algorithmic depth  
+- Distributed systems fundamentals  
 
 ---
 
-## GitHub Statistics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aswin527&show_icons=true&hide_border=true" />
@@ -70,11 +72,11 @@ Focus: data collection, reporting logic, and optimization insights.
 
 ---
 
-## Engineering Philosophy
+## Engineering Principles
 
-Build systems that scale.  
-Write code that survives refactoring.  
-Optimize for clarity over cleverness.  
+Design for scale.  
+Optimize for clarity.  
+Prefer simplicity over cleverness.  
 Think in trade-offs.
 
 ---
